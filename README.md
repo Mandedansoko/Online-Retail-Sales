@@ -1,6 +1,10 @@
 # Online-Retail-Sales
 The objectives of this project are Data wrangling and Exploratory Data Analysis. In this project, I have treated the missing data, detected and deleted the duplicated values, treated outliers. After that, I have done some statistical analysis.
 
+
+## Tools: Python, Jupyter Notebook
+
+
 ## Case Study
 In this project, you will be working with transactional data from an online retail store. The dataset contains information about customer purchases, including product details, quantities, prices, and timestamps. Your task is to explore and analyze this dataset to gain insights into the store's sales trends, customer behavior, and popular products. 
 
